@@ -4,7 +4,7 @@ EDA based on Kaggle ML and Data Science Survey, 2017
 ## Table of Contents<br/>
 
    1. Exploratory Analysis<br/>
-    - 1.1 Gender<br/>
+    - 1.1 Gender 
     -  1.2 Country<br/>
     - 1.3 Salary<br/>
     - 1.4 Job Title & Major<br/>
