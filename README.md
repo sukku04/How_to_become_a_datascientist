@@ -1,6 +1,10 @@
 # How_to_become_a_datascientist
 EDA based on Kaggle ML and Data Science Survey, 2017
 
+In this nootbook, I am analyzing and expecting the job market of Data scientist based on the survey from Kaggle. (/br)
+The format of report is based on  __[The Future of Jobs on WEF(World Economic Forum)](http://reports.weforum.org/future-of-jobs-2016/)__
+     
+
 ## Table of Contents<br/>
 
    1. Exploratory Analysis<br/>
